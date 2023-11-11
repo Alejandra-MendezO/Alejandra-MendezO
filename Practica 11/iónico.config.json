@@ -1,0 +1,7 @@
+{
+  "name": "BaseDeDatos-2080138-holaMundo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
